@@ -1,0 +1,7 @@
+# ninja log v5
+33	64	1715599030629684937	AssignmentOne	2953725b3ec1e36a
+8	180	7375646743266338	CMakeFiles/AssignmentOne.dir/main.c.obj	feeaf0410ee154c4
+14	437	7375646745836807	CMakeFiles/AssignmentOne.dir/text_editor.c.obj	ef5412359dee076f
+437	718	7375646748586803	AssignmentOne.exe	16d1846cccb934ca
+64	1607	7376778084999465	CMakeFiles/AssignmentOne.dir/main.c.obj	feeaf0410ee154c4
+1608	2734	7376778097104586	AssignmentOne.exe	16d1846cccb934ca
